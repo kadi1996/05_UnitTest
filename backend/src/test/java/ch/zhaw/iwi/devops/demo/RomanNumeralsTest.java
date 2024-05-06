@@ -68,7 +68,7 @@ public class RomanNumeralsTest {
 
     @Test
     public void shouldConvert1toXC() {
-        assertEquals("XC", RomanNumerals.convert(1));
+        assertEquals("I", RomanNumerals.convert(1));
     }
 }
 
