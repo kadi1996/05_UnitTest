@@ -17,6 +17,8 @@
 			"**/node_modules",
 			"**/.metadata",
 			"**/archetype-resources"
-		]
+		],
+		"java.compile.nullAnalysis.mode": "automatic",
+		"liveServer.settings.multiRootWorkspaceName": "frontend"
 	}
 }

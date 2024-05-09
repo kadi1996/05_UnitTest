@@ -137,7 +137,8 @@
   },
   "defaultProject": "path-example",
   "cli": {
-    "defaultCollection": "@angular-eslint/schematics"
+    "defaultCollection": "@angular-eslint/schematics",
+    "analytics": "1548aa0a-6605-4c69-8469-8a455584f18a"
   },
   "schematics": {
     "@schematics/angular:component": {
