@@ -18,6 +18,11 @@
 			"**/.metadata",
 			"**/archetype-resources"
 		],
+<<<<<<< HEAD
 		"java.compile.nullAnalysis.mode": "automatic"
+=======
+		"java.compile.nullAnalysis.mode": "automatic",
+		"liveServer.settings.multiRootWorkspaceName": "frontend"
+>>>>>>> abea22460c177a5b7c20d3cc068bc6df91ed97b0
 	}
 }

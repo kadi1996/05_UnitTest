@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 public class RomanNumeralsTest {
     @Test
     public void shouldConvert1ToI() {
-        assertEquals("I", RomanNumerals.convert(2));
+        assertEquals("I", RomanNumerals.convert(1));
     }
 
     /*
@@ -91,12 +91,11 @@ public class RomanNumeralsTest {
     }
  */
 
- /*
-    @Test
+ /*   @Test
     public void shouldConvert1toXC() {
-        assertEquals("I", RomanNumerals.convert(1)); //hier war der Fehler (Ist nicht gleich XC)
+        assertEquals("I", RomanNumerals.convert(1));
     }
      */
-}
 
+}
 
