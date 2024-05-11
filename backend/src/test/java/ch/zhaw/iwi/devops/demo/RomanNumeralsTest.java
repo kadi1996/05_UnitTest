@@ -59,13 +59,11 @@ public class RomanNumeralsTest {
         assertEquals("D", RomanNumerals.convert(500));
     }
 
-     /*
 
     @Test
     public void shouldConvert1000ToM() {
-        assertEquals("M", RomanNumerals.convert(1000));
+        assertEquals("S", RomanNumerals.convert(1000));
     }
-     */
 
     /*
     @Test
