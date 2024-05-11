@@ -11,12 +11,12 @@ public class RomanNumeralsTest {
         assertEquals("I", RomanNumerals.convert(1));
     }
 
-    /*
+   
     @Test
     public void shouldConvert2ToII() {
-        assertEquals("II", RomanNumerals.convert(2));
+        assertEquals("II", RomanNumerals.convert(4));
     } 
-    */
+    
 
    /* @Test
     public void shouldConvert4ToIV() {
