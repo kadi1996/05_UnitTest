@@ -23,12 +23,12 @@ public class RomanNumeralsTest {
         assertEquals("IV", RomanNumerals.convert(4));
     }  
 
-    /*
+
     @Test
     public void shouldConvert9ToIX() {
-        assertEquals("IX", RomanNumerals.convert(9));
+        assertEquals("X", RomanNumerals.convert(9));
     }
-     */
+     
 
     /*
 
