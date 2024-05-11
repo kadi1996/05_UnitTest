@@ -77,13 +77,12 @@ public class RomanNumeralsTest {
     }
 
 
- /*
 
     @Test
     public void shouldConvert90ToXC() {
-        assertEquals("XC", RomanNumerals.convert(90));
+        assertEquals("XCC", RomanNumerals.convert(900));
     }
- */
+
 
  /*   @Test
     public void shouldConvert1toXC() {
