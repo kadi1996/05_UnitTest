@@ -80,7 +80,7 @@ public class RomanNumeralsTest {
 
     @Test
     public void shouldConvert90ToXC() {
-        assertEquals("XCC", RomanNumerals.convert(900));
+        assertEquals("XC", RomanNumerals.convert(90));
     }
 
 
