@@ -14,7 +14,7 @@ public class RomanNumeralsTest {
    
     @Test
     public void shouldConvert2ToII() {
-        assertEquals("II", RomanNumerals.convert(4));
+        assertEquals("II", RomanNumerals.convert(2));
     } 
     
 
