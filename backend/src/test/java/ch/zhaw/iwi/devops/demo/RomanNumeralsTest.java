@@ -73,7 +73,7 @@ public class RomanNumeralsTest {
 
         @Test
     public void shouldConvert40ToXL() {
-        assertEquals("XLL", RomanNumerals.convert(40));
+        assertEquals("XL", RomanNumerals.convert(40));
     }
 
 
