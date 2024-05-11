@@ -34,7 +34,7 @@ public class RomanNumeralsTest {
 
     @Test
     public void shouldConvert21ToXXI() {
-        assertEquals("XXI", RomanNumerals.convert(11));
+        assertEquals("XXI", RomanNumerals.convert(21));
     }
  
 
