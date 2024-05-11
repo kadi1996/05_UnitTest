@@ -47,19 +47,17 @@ public class RomanNumeralsTest {
 
 
 
- @Test
+@Test
     public void shouldConvert100ToC() {
         assertEquals("C", RomanNumerals.convert(100));
     }
 
     
-    /*
 
     @Test
     public void shouldConvert500ToD() {
-        assertEquals("D", RomanNumerals.convert(500));
+        assertEquals("DD", RomanNumerals.convert(500));
     }
-     */
 
      /*
 
