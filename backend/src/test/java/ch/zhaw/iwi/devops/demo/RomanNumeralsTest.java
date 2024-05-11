@@ -56,7 +56,7 @@ public class RomanNumeralsTest {
 
     @Test
     public void shouldConvert500ToD() {
-        assertEquals("DD", RomanNumerals.convert(500));
+        assertEquals("D", RomanNumerals.convert(500));
     }
 
      /*
