@@ -70,12 +70,12 @@ public class RomanNumeralsTest {
         assertEquals("MCMXCIX", RomanNumerals.convert(1999));
     }
 
-/*
+
         @Test
     public void shouldConvert40ToXL() {
-        assertEquals("XL", RomanNumerals.convert(40));
+        assertEquals("XLL", RomanNumerals.convert(40));
     }
- */
+
 
  /*
 
