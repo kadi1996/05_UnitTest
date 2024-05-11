@@ -26,7 +26,7 @@ public class RomanNumeralsTest {
 
     @Test
     public void shouldConvert9ToIX() {
-        assertEquals("X", RomanNumerals.convert(9));
+        assertEquals("IX", RomanNumerals.convert(9));
     }
      
 
