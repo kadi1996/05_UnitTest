@@ -67,7 +67,7 @@ public class RomanNumeralsTest {
 
     @Test
     public void shouldConvert1999ToMCMXCIX() {
-        assertEquals("MCMXCIX", RomanNumerals.convert(2999));
+        assertEquals("MCMXCIX", RomanNumerals.convert(1999));
     }
 
 /*
