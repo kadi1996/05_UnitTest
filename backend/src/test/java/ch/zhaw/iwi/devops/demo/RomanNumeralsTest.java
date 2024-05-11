@@ -62,7 +62,7 @@ public class RomanNumeralsTest {
 
     @Test
     public void shouldConvert1000ToM() {
-        assertEquals("S", RomanNumerals.convert(1000));
+        assertEquals("M", RomanNumerals.convert(1000));
     }
 
     /*
