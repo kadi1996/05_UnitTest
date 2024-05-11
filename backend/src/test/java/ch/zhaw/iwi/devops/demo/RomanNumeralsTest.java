@@ -47,12 +47,12 @@ public class RomanNumeralsTest {
 
 
 
-/*    @Test
+ @Test
     public void shouldConvert100ToC() {
-        assertEquals("C", RomanNumerals.convert(100));
+        assertEquals("C", RomanNumerals.convert(101));
     }
 
-     */
+    
     /*
 
     @Test
