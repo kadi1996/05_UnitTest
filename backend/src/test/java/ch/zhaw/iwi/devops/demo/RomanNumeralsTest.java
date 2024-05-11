@@ -38,14 +38,14 @@ public class RomanNumeralsTest {
     }
  
 
- /*
+ 
 
     @Test
     public void shouldConvert50ToL() {
-        assertEquals("L", RomanNumerals.convert(50));
+        assertEquals("LXX", RomanNumerals.convert(50));
     }
 
-    */
+
 
 /*    @Test
     public void shouldConvert100ToC() {
