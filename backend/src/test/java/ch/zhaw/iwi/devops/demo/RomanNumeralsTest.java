@@ -49,7 +49,7 @@ public class RomanNumeralsTest {
 
  @Test
     public void shouldConvert100ToC() {
-        assertEquals("C", RomanNumerals.convert(101));
+        assertEquals("C", RomanNumerals.convert(100));
     }
 
     
