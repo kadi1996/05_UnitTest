@@ -42,7 +42,7 @@ public class RomanNumeralsTest {
 
     @Test
     public void shouldConvert50ToL() {
-        assertEquals("LXX", RomanNumerals.convert(50));
+        assertEquals("L", RomanNumerals.convert(50));
     }
 
 
