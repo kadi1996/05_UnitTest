@@ -18,10 +18,10 @@ public class RomanNumeralsTest {
     } 
     
 
-   /* @Test
+   @Test
     public void shouldConvert4ToIV() {
-        assertEquals("IV", RomanNumerals.convert(4));
-    }  */
+        assertEquals("V", RomanNumerals.convert(4));
+    }  
 
     /*
     @Test
